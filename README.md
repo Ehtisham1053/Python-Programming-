@@ -10,20 +10,7 @@ The repository is structured into different sections to ensure a smooth learning
 
 ```
 📂 Python-Learning-Repo
-│── 📜 README.md  # Documentation of the repository
-│── 📂 01_Basics   # Python fundamentals
-│── 📂 02_Data_Structures   # Lists, Tuples, Dictionaries, Sets
-│── 📂 03_Functions   # User-defined and built-in functions
-│── 📂 04_OOP   # Object-Oriented Programming concepts
-│── 📂 05_Modules_and_Packages   # Using and creating Python modules
-│── 📂 06_File_Handling   # Reading/Writing files, CSV, JSON handling
-│── 📂 07_Exception_Handling   # Handling errors and exceptions
-│── 📂 08_Advanced_Topics   # Decorators, Generators, Multithreading, etc.
-│── 📂 09_Machine_Learning   # ML concepts, NumPy, Pandas, Scikit-Learn
-│── 📂 10_Deep_Learning   # Neural networks, TensorFlow, PyTorch
-│── 📂 11_NLP   # Natural Language Processing basics to advanced
-│── 📂 12_Projects   # End-to-end projects for practical learning
-│── 📂 Notebooks   # Jupyter Notebook versions of all topics
+
 ```
 
 ---
